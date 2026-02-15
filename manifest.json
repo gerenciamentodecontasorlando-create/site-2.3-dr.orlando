@@ -1,0 +1,21 @@
+{
+  "name": "DR. Orlando Abreu Gomes da Silva",
+  "short_name": "DR Orlando",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "description": "Perfil institucional — Cirurgia Buco-Maxilo-Facial, pesquisa em biotecnologia e infraestrutura tecnológica.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
